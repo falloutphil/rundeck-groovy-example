@@ -7,7 +7,7 @@ rundeckPlugin(ContentConverterPlugin) {
         title = "XML Visualization"
         description = "Convert XML to HTML Output"
         version = "1.0"
-        url = "https://github.com/falloutphil/rundeck-groovy-example"
+        url = "https://github.com/falloutphil/rundeck-xml-content-converter"
         author = "Phil Beadling, © 2018"
 
 
